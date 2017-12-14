@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Torsoft\Programas\Codigo Pruebas\Linterna\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d900500f3d17e23de4f5fc3e7248ffbb77269d4d">
+        <dex dex="E:\Torsoft\Programas\Codigo Pruebas\Linterna\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fafee59525c80b05af8b0158bdbc65cdb393e583\classes.dex" />
+    </item>
+
+</items>
